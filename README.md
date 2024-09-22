@@ -1,19 +1,11 @@
-# 🎈 Blank app template
+# Car Dheko - Used Car Price Prediction
 
-A simple Streamlit app template for you to modify!
-
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://blank-app-template.streamlit.app/)
+An interactive Streamlit application for real-time price predictions based on user input.
 
 ### How to run it on your own machine
-
-1. Install the requirements
-
-   ```
-   $ pip install -r requirements.txt
-   ```
 
 2. Run the app
 
    ```
-   $ streamlit run streamlit_app.py
+   $ streamlit run car_prediction_app.py
    ```
